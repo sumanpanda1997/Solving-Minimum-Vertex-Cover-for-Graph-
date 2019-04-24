@@ -1,0 +1,33 @@
+max is 3066045
+min is678
+avg is138508
+avg of 0-50 is 145036
+avg of 1-50 is 104071
+avg of 2-50 is 94691
+avg of 3-50 is 161559
+avg of 4-50 is 106796
+avg of 5-50 is 117343
+avg of 6-50 is 150456
+avg of 7-50 is 104590
+avg of 8-50 is 98950
+avg of 9-50 is 152335
+avg of 10-50 is 113278
+avg of 11-50 is 142646
+avg of 12-50 is 159218
+avg of 13-50 is 149646
+avg of 14-50 is 159852
+avg of 15-50 is 88800
+avg of 16-50 is 171752
+avg of 17-50 is 187929
+avg of 18-50 is 120254
+avg of 19-50 is 118816
+avg of 20-50 is 147987
+avg of 21-50 is 128373
+avg of 22-50 is 90564
+avg of 23-50 is 123886
+avg of 24-50 is 175701
+avg of 25-50 is 113059
+avg of 26-50 is 250404
+avg of 27-50 is 203816
+avg of 28-50 is 154141
+avg of 29-50 is 119295
